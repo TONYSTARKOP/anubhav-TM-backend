@@ -1,0 +1,103 @@
+{
+    "tasks": [
+        {
+            "name": "Morning Study",
+            "start": "8:00 AM",
+            "end": "10:00 AM"
+        },
+        {
+            "name": "Work Session 1",
+            "start": "10:30 AM",
+            "end": "12:00 PM"
+        },
+        {
+            "name": "Lunch Break",
+            "start": "12:00 PM",
+            "end": "1:00 PM"
+        },
+        {
+            "name": "Work Session 2",
+            "start": "1:30 PM",
+            "end": "3:30 PM"
+        },
+        {
+            "name": "Evening Walk",
+            "start": "6:00 PM",
+            "end": "6:30 PM"
+        }
+    ],
+    "2024-12-09": [
+        {
+            "name": "Morning Workout",
+            "time": "07:00",
+            "completed": false
+        },
+        {
+            "name": "Work on Project",
+            "time": "10:00",
+            "completed": false
+        },
+        {
+            "name": "Lunch Break",
+            "time": "12:30",
+            "completed": false
+        },
+        {
+            "name": "Meeting with Team",
+            "time": "14:00",
+            "completed": false
+        },
+        {
+            "name": "Study for Exam",
+            "time": "17:00",
+            "completed": false
+        },
+        {
+            "name": "Dinner",
+            "time": "19:00",
+            "completed": false
+        },
+        {
+            "name": "Relax and Read",
+            "time": "21:00",
+            "completed": false
+        }
+    ],
+    "2024-12-08": [
+        {
+            "name": "Morning Workout",
+            "time": "07:00",
+            "completed": true
+        },
+        {
+            "name": "Work on Project",
+            "time": "10:00",
+            "completed": true
+        },
+        {
+            "name": "Lunch Break",
+            "time": "12:30",
+            "completed": true
+        },
+        {
+            "name": "Meeting with Team",
+            "time": "14:00",
+            "completed": true
+        },
+        {
+            "name": "Study for Exam",
+            "time": "17:00",
+            "completed": true
+        },
+        {
+            "name": "Dinner",
+            "time": "19:00",
+            "completed": true
+        },
+        {
+            "name": "Relax and Read",
+            "time": "21:00",
+            "completed": true
+        }
+    ]
+}

@@ -34,4 +34,4 @@ def post_tasks():
     return jsonify({"message": "Tasks added successfully"}), 200
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run(host="0.0.0.0", port=5000)

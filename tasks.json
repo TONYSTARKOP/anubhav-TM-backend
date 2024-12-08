@@ -1,4 +1,76 @@
 {
-
-    
+    "2024-12-08": [
+        {
+            "name": "Start Reviewing Notes (CBNST Practical)",
+            "time": "20:00",
+            "completed": false
+        },
+        {
+            "name": "Practice Key Concepts & Troubleshoot",
+            "time": "21:30",
+            "completed": false
+        },
+        {
+            "name": "Revise Important Commands & Functions",
+            "time": "23:00",
+            "completed": false
+        },
+        {
+            "name": "Take a Break and Rest",
+            "time": "00:30",
+            "completed": false
+        },
+        {
+            "name": "Revisit Any Problematic Areas",
+            "time": "02:00",
+            "completed": false
+        },
+        {
+            "name": "Quick Revision of All Topics",
+            "time": "04:00",
+            "completed": false
+        },
+        {
+            "name": "Rest and Sleep",
+            "time": "05:30",
+            "completed": false
+        }
+    ],
+    "2024-12-09": [
+        {
+            "name": "Wake Up & Morning Preparation",
+            "time": "07:00",
+            "completed": false
+        },
+        {
+            "name": "Quick Review of Key Topics",
+            "time": "08:00",
+            "completed": false
+        },
+        {
+            "name": "Practical Hands-On Revision (CBNST)",
+            "time": "09:00",
+            "completed": false
+        },
+        {
+            "name": "Final Review of Key Commands & Functions",
+            "time": "10:00",
+            "completed": false
+        },
+        {
+            "name": "Prepare Equipment & Materials for Exam",
+            "time": "11:00",
+            "completed": false
+        },
+        {
+            "name": "Relax Before the Exam",
+            "time": "11:30",
+            "completed": false
+        },
+        {
+            "name": "Exam Time",
+            "time": "12:00",
+            "completed": false
+        }
+    ]
 }
